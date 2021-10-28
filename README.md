@@ -1,9 +1,10 @@
 # tetrisJavaGUI
 ## Tetris GUI game written in java
 
+![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/game.png)
+
 ## Features:
 ### Drop row feature when bottom row is filled with bricks with no space and high score increase
-
 ### Save and load game from a file, and high score support
 ![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/saveLoad.png)
 
