@@ -14,7 +14,7 @@
 ### Built in tetris music with on/off switch
 ![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/music.png)
 
-### 3 different color combination that can be chosen at real time
+### 3 different color combination that can be chosen in real time
 ![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/game.png)
 
 ![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/color1.png)
