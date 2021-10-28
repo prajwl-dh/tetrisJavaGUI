@@ -8,17 +8,13 @@ Features:
 ![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/highscore.png)
 
 > Built in tetris music with on/off switch
+![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/music.png)
+
 > 3 different color combination that can be chosen at real time
+![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/game.png)
+
+![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/color1.png)
+
+![Sample Output](https://github.com/prajwl-dh/tetrisJavaGUI/blob/main/color2.png)
+
 > Game over display, 'N' for new game and Space button for pausing the game
-
-
-![Sample Output](https://github.com/prajwl-dh/rockPaperScissorsGUIGameJava/blob/master/Output2.png)
-
-
-![Sample Output](https://github.com/prajwl-dh/rockPaperScissorsGUIGameJava/blob/master/Output3.png)
-
-
-![Sample Output](https://github.com/prajwl-dh/rockPaperScissorsGUIGameJava/blob/master/Output4.png)
-
-
-![Sample Output](https://github.com/prajwl-dh/rockPaperScissorsGUIGameJava/blob/master/Output5.png)
