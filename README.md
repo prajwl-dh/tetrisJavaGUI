@@ -1,7 +1,7 @@
 # tetrisJavaGUI
-##Tetris GUI game written in java
+##Tetris GUI game written in java##
 
-##Features:
+##Features:##
 Drop row feature when bottom row is filled with bricks with no space and high score increase
 
 
