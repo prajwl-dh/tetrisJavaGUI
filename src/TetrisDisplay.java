@@ -103,7 +103,7 @@ public class TetrisDisplay extends JPanel
     {
         KeyEvent ke;
 
-        timer_speed = 100;
+        timer_speed = 250;
         timer = new Timer(timer_speed, new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent ae)
