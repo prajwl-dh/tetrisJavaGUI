@@ -23,7 +23,7 @@ public class TetrisDisplay extends JPanel
     private TetrisGame game;
     private int start_x = 115;
     private int start_y = 40;
-    private int cell_size = 19;
+    private int cell_size = 40;
     Timer timer;
     int timer_speed;
 

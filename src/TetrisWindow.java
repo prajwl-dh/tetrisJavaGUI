@@ -24,8 +24,8 @@ import java.util.Scanner;
 
 public class TetrisWindow extends JFrame
 {
-    private int win_width = 450;
-    private int win_height = 500;
+    private int win_width = 750;
+    private int win_height = 950;
     private int soundState = 1;
 
     private TetrisDisplay display;
